@@ -20,7 +20,7 @@ tags:
 
 Published on: 2022-12-09
 
-Welcome to my _new blog_ about learning Astro! Here, I will share my learning journey as I build a new website.
+Welcome to my _new blog_ about learning Astro! Here, I will share my learning journey as I build a new website on the path to full stack software development.
 
 ## What I've accomplished
 
