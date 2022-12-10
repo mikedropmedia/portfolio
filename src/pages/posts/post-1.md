@@ -16,10 +16,12 @@ tags:
   ]
 ---
 
+<a href="/blog/">Blog</a>
+
 # My First Blog Post
 
 Published on: 2022-12-09
-<a href="/blog/">Blog</a>
+
 Welcome to my _new blog_ about learning Astro! Here, I will share my learning journey as I build a new website on the path to full stack software development.
 
 ## What I've accomplished
